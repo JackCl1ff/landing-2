@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 16pt;
+    font-family: Myriad Pro;
+    color: rgb(63, 62, 62);
+}
+
+#conteiner {
+    clear: both;
+    width: 75%;
+    margin: 0 auto;
+}
+
+#kratinka{
+   padding-top: 10px;
+   padding-right: 10px;
+   width: 7%; 
+   height: 110px;
+   float: left;
+}
+
+#nazvanie{
+    padding-top: 20px;
+    width: 30%;
+    height: 100px;
+    float: left
+}
+
+.nazvanie{
+    color: rgb(95, 180, 38);
+    font-size: 40pt;
+    font-family: Verdana;
+    text-shadow: 1px 1px rgb(64, 116, 29);
+}
+
+#vrema{
+    padding-top: 35px;
+    width: 20%;
+    height: 85px;
+    float: left
+}
+
+
+#nomer{
+    padding-top: 35px;
+    width: 18%;
+    height: 85px;
+    float: left
+}
+
+#knopka {
+    padding-top: 20px;
+    width: 10%;
+    float: left;
+}
+
+.knopka {
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+    padding: .8em 1em calc(.8em + 3px);
+    border-radius: 30px;
+    background:rgb(95, 180, 38);
+    border-color: rgb(95, 180, 38);
+
+}
+
+.knopka:active {
+	background:rgb(93, 161, 48);
+    border-color: rgb(93, 161, 48);
+}
+
+#osnova{
+    padding-top: 50px;
+    width: 100%;
+    float: left;
+    padding-bottom: 30px;
+}
+
+.one {
+ font-size: 60pt;
+}
+
+#left {
+    padding: 10px;
+    width: 21%;
+    height: 465px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    float: left;
+}
+
+a { 
+    text-decoration: none;
+    color: rgb(95, 180, 38);
+   } 
+
+.two {
+    font-size: 20pt;
+}
+
+#text {
+    padding-left: 30px;
+    float: left;
+    width: 50%;
+    color: gray;
+    padding-bottom: 50px;
+}
+
+.three {
+    font-size: 30pt;
+    color: rgb(95, 180, 38)
+}
+
+#house{
+    background: rgb(245, 245, 245);
+    position: absolute;
+    top: 350px;
+    right: 0px;
+    transform: scale(-1, 1)
+}
+
+#karta{
+    background: rgb(95, 180, 38) ;
+    width: 100%;
+    padding-top: 60px;
+    float: left;
+}

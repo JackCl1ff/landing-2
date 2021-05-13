@@ -1,0 +1,29 @@
+* {
+    font-size: 16pt;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    color: rgb(63, 62, 62);
+}
+
+.one {
+    font-size: 20pt;
+}
+
+.knopka {
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+    padding: .8em 1em calc(.8em + 3px);
+    border-radius: 30px;
+    background:rgb(95, 180, 38);
+    border-color: rgb(95, 180, 38)
+}
+
+.vozvrat{
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+    padding: .8em 1em calc(.8em + 3px);
+    border-radius: 30px;
+    background:rgb(95, 180, 38);
+    border-color: rgb(95, 180, 38)
+}
